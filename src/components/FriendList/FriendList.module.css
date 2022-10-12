@@ -1,0 +1,38 @@
+.item{
+   
+    margin-bottom: 5px;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+.status{
+    display: block;
+    margin-right: 10px;
+    width: 5px;
+    height: 5px;
+    background-color: red;
+}
+.green{
+    margin-right: 10px;
+    width: 5px;
+    height: 5px;
+    background-color: green;
+}
+.red{
+    margin-right: 10px;
+    width: 5px;
+    height: 5px;
+    background-color: red; 
+}
+
+.friendList{
+    list-style: none;
+   
+    margin-bottom: 25px;
+}
+
+.avatar{
+    margin-right: 10px;
+}

@@ -1,0 +1,45 @@
+.profile{
+    
+}
+
+body{
+    background-color: rgb(204, 238, 196);
+}
+.stats{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-left: 0;
+}
+
+.statsList{
+    display: flex;
+    flex-direction: column;
+}
+
+.statsList:not(:last-child){
+margin-right: 25px;
+}
+
+.profile {
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: black;
+    padding: 50px;
+    
+}
+.avatar{
+    background-color: antiquewhite;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
