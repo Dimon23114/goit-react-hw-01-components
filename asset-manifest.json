@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Dimon23114/goit-react-hw-01-components.git/static/css/main.956cfe43.css",
-    "main.js": "/Dimon23114/goit-react-hw-01-components.git/static/js/main.66a450da.js",
-    "index.html": "/Dimon23114/goit-react-hw-01-components.git/index.html",
-    "main.956cfe43.css.map": "/Dimon23114/goit-react-hw-01-components.git/static/css/main.956cfe43.css.map",
-    "main.66a450da.js.map": "/Dimon23114/goit-react-hw-01-components.git/static/js/main.66a450da.js.map"
+    "main.css": "/Dimon23114/goit-react-hw-01-components/static/css/main.14b10181.css",
+    "main.js": "/Dimon23114/goit-react-hw-01-components/static/js/main.66a450da.js",
+    "index.html": "/Dimon23114/goit-react-hw-01-components/index.html",
+    "main.14b10181.css.map": "/Dimon23114/goit-react-hw-01-components/static/css/main.14b10181.css.map",
+    "main.66a450da.js.map": "/Dimon23114/goit-react-hw-01-components/static/js/main.66a450da.js.map"
   },
   "entrypoints": [
-    "static/css/main.956cfe43.css",
+    "static/css/main.14b10181.css",
     "static/js/main.66a450da.js"
   ]
 }
